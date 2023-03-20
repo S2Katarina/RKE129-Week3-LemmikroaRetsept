@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Syncopate&display=swap');
+
+body{
+    background-color:rgb(255, 157, 248);
+}
+
+.heading {
+    color: white;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 2rem;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
